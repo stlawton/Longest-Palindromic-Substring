@@ -11,6 +11,7 @@ class Solution {
                     subMax = sub;
                 }
             }
+            sub = "";
         }
 
         return subMax;
